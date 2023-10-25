@@ -8,6 +8,8 @@
     border: 1.5px solid grey;
 }
 
+/* border style */
+
 .mt-1 {
     margin-top: 1%;
 }
@@ -15,6 +17,8 @@
 .mt-5 {
     margin-top: 5px;
 }
+
+/* text style */
 
 .text-center {
     text-align: center;

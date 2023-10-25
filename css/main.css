@@ -2,6 +2,7 @@ main {
     width: 80%;
     margin: 0 auto;
     margin-top: 2%;
+    box-shadow: 10px 10px 5px rgb(218, 218, 218);
 }
 
 .buttons-container {
