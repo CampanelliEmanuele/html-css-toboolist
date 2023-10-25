@@ -50,3 +50,14 @@ main {
     border: 2px solid green;
     border-radius: 50%;
 }
+
+.label {
+    border-radius: 25px;
+    padding: 0.2%;
+    padding-left: 0.8%;
+    padding-right: 0.8%;
+}
+
+.label-text {
+    font-size: 10px;
+}
