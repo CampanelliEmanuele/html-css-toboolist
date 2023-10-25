@@ -28,4 +28,4 @@ Partiamo sempre dal definire le macroaree del layout e analizziamo poi gli eleme
 
 ### Risultato
 
-<img alt="risultato-finale" src="./img/">
+<img alt="risultato-finale" src="./img/my-solution.PNG" width=850>
